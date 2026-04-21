@@ -1,0 +1,68 @@
+[
+  {
+    "id":1,
+    "price":20000,
+    "companyId":1,
+    "createdAt": "2022-11-21"
+  },
+  {
+    "id":2,
+    "price":25000,
+    "companyId":1,
+    "createdAt": "2023-10-11"
+  },
+  {
+    "id":3,
+    "price":45000,
+    "companyId":1,
+    "createdAt": "2024-11-21"
+  },
+  {
+    "id":4,
+    "price":100000,
+    "companyId":2,
+    "createdAt": "2023-11-21"
+  },
+  {
+    "id":5,
+    "price":90000,
+    "companyId":2,
+    "createdAt": "2024-05-21"
+  },
+  {
+    "id":6,
+    "price":110000,
+    "companyId":2,
+    "createdAt": "2024-10-21"
+  },
+  {
+    "id":7,
+    "price":50000,
+    "companyId":3,
+    "createdAt": "2021-01-21"
+  },
+  {
+    "id":8,
+    "price":60000,
+    "companyId":3,
+    "createdAt": "2021-10-21"
+  },
+  {
+    "id":9,
+    "price":55000,
+    "companyId":3,
+    "createdAt": "2022-10-25"
+  },
+  {
+    "id":10,
+    "price":70000,
+    "companyId":3,
+    "createdAt": "2024-04-21"
+  },
+  {
+    "id":11,
+    "price":78000,
+    "companyId":3,
+    "createdAt": "2024-10-21"
+  }
+]

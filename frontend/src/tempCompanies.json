@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Appexoft",
+    "service": "IT Products & Services",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "23000",
+    "created": "2022-11-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 2,
+    "name": "SoftServe",
+    "service": "Transaction Support",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "400000",
+    "created": "2023-01-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 3,
+    "name": "GameEnv",
+    "service": "Casual Game Development",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "6784403",
+    "created": "2021-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 4,
+    "name": "InnoTech",
+    "service": "Tech Solutions",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "120000",
+    "created": "2020-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 5,
+    "name": "CodeCraft",
+    "service": "Software Development",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "90000",
+    "created": "2024-10-11 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 6,
+    "name": "WebWave",
+    "service": "Website Development",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "340000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 7,
+    "name": "AppSphere",
+    "service": "Mobile App Development",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "1500000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 8,
+    "name": "DataFlow",
+    "service": "Data Management",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "500000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 9,
+    "name": "SkyNet",
+    "service": "Cloud Services",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "800000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 10,
+    "name": "TechBridge",
+    "service": "Tech Consulting",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "250000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 11,
+    "name": "CloudSolutions",
+    "service": "Cloud Infrastructure",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "750000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 12,
+    "name": "TechVision",
+    "service": "IT Consultancy",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "450000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 13,
+    "name": "SoftLab",
+    "service": "Software Research",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "600000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 14,
+    "name": "DevStack",
+    "service": "Full-Stack Development",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "1000000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  },
+  {
+    "id": 15,
+    "name": "NextGen",
+    "service": "Next-Gen Tech",
+    "logotype": "https://i.imgur.com/98Qv9sh.png",
+    "capital": "350000",
+    "created": "2024-10-21 18:05:06.356+00",
+    "longitude": "49°49'04.3\"N",
+    "latitude": "23°59'56.0\"E"
+  }
+]
